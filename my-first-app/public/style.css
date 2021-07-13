@@ -2,6 +2,12 @@
   color: red;
 }
 
+.heading1{
+  font-size: 50px;
+  font-weight: bold;
+  border-bottom: 5px solid black;
+}
+
 img{
   width: 100px;
   height: 100px;
